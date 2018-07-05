@@ -4,4 +4,4 @@ function addnums(numa,numb){
   return result;
 
 }
-console.log(addnums(10,5));
+console.log(addnums(20,15));
