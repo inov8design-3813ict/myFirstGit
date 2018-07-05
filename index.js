@@ -4,4 +4,4 @@ function addnums(numa,numb){
   return result;
 
 }
-console.log(addnums(10,5));
+console.log("Addtion of two nums = " + addnums(10,5));
