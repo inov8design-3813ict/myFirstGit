@@ -8,3 +8,5 @@ function addnums(numa,numb){
 console.log("Addtion of two nums = " + addnums(10,5));
 Console.log("Project 2");
 
+console.log("This is porject 1");
+
