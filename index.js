@@ -6,4 +6,5 @@ function addnums(numa,numb){
 }
 
 console.log("Addtion of two nums = " + addnums(10,5));
+Console.log("Project 2");
 
